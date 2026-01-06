@@ -28,4 +28,14 @@ A **Chrome Extension (Manifest V3)** integrated with a **Node.js + Express backe
 ---
 
 ## 📁 Project Structure
+webpage-text-to-pdf-chrome-extension
+│
+├── chrome-extension
+│ ├── manifest.json
+│ ├── popup.html
+│ └── popup.js
+│
+└── text-to-pdf-backend
+├── server.js
+└── pdfs/
 
